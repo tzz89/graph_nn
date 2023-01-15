@@ -1,0 +1,6 @@
+matplotlib
+plotly
+jupyterlab
+networkx
+#conda install pyg -c pyg
+#conda install -c conda-forge jupyterlab
